@@ -1,0 +1,22 @@
+.numrojo{
+    background-color: red;
+    color: yellow;
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin-left: 20px;
+    font-size: 70px;
+    margin-top: 20px;
+
+    
+}
+.numnegro{
+    background-color: black;
+    color:white;
+    height: 400px;
+    width: 400px;
+}
+#padre-numeros{
+    overflow: hidden;
+    
+}
