@@ -1,0 +1,8 @@
+.card{
+    width: 640px;
+    display: inline-block;
+    overflow: hidden;
+}
+.card-img-top{
+    height: 342px;
+}
