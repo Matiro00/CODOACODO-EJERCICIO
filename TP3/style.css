@@ -1,0 +1,32 @@
+.imagenHTML img{
+    width:100px;
+    height:100px;
+    margin: auto 25px;
+}
+.imagenes img{
+    width:125px;
+    height:110px;
+    margin: auto -15px;
+}
+#encabezado{
+    text-align: right;
+    background-color:rgb(128, 128, 128,0.8);
+}
+#alineacionCuerpo{
+    text-align: center;
+}
+#cuerpo{
+    display: inline-block;
+    text-align: left;
+    max-width: 800px;
+}
+#piePagina{
+    text-align: center;
+    background-color:rgb(128, 128, 128,0.8);
+}
+#nombreAlumno{
+    font-weight: bold;
+}
+#correoAlumno{
+    font-style: italic;
+}
